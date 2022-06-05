@@ -1,0 +1,28 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.itemBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+.itemImg{
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+  margin: 0 auto;
+}
+
+.textContainer{
+  margin: 25px 0 0 0;
+}
+
+.textItems{
+  font-size: large;
+  margin: 15px;
+}
